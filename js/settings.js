@@ -177,7 +177,7 @@ let cfgversion = 680;
 
 // Block wallets
 let researchers = [
-    "0x0000000000000000000000000000000000000003",
+    "0x127859B5a991DF08FA1F35b54FE86f5720526C57",
 ];
 
 // [EXPERIMENTAL FUNCTIONS] Enable them if you know what you are doing
